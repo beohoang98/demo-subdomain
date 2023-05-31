@@ -1,0 +1,14 @@
+{
+  "name": "demo-subdomain",
+  "version": "1.0.0",
+  "main": "index.html",
+  "type": "module",
+  "repository": "git@github.com:beohoang98/demo-subdomain.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "serve -s ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
